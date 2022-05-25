@@ -61,8 +61,6 @@ public class Main {
 
 
 
-
-
 System.out.println(scene.resultOfExtraRunsConcededPerTeamIn2016(match,delivery));
 System.out.println(scene.resultOfEconomicalBowlerIn2015(match,delivery));
 System.out.println(scene.resultofMatchesWonAllteamsOverAllYearOfIpl(match));

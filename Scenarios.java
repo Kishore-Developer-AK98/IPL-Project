@@ -66,7 +66,6 @@ public class Scenarios {
         return extraRunsByTeam;
     }
 
-
     public static Map<String, Float> resultOfEconomicalBowlerIn2015(List<Match> matches, List<Delivery> delivery) {
         Map<String, Integer> bowlerBall = new HashMap<>();
         Map<String, Integer> bowlerRuns = new HashMap<>();
