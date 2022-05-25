@@ -43,5 +43,4 @@ public class Match {
         this.season = season;
     }
 
-
 }
